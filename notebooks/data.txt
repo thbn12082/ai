@@ -1,0 +1,19 @@
+2) Python essentials (45’)
+
+Ôn nhanh (làm ngay trong 1 notebook notebooks/day01.ipynb):
+
+list/dict/set, loop, comprehension
+
+function + default args
+
+đọc/ghi file, xử lý string cơ bản
+
+error handling (try/except)
+
+(nhẹ) typing + docstring
+
+Bài tập nhỏ:
+
+Viết hàm clean_text(s) bỏ khoảng trắng thừa, lower-case
+
+Viết hàm mean(nums) không dùng numpy

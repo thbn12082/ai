@@ -1,1 +1,1 @@
-# ai
+tự học AI với di bi ti
